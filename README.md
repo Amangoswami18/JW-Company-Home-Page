@@ -111,7 +111,7 @@ Works instantly, updates UI without refresh.
 
 Installation & Setup
 1. Clone the project
-git clone https://github.com/your-username/jw-company-homepage.git
+git clone https://github.com/Amangoswami18/JW-Company-Home-Page.git
 
 2. Install dependencies
 npm install
