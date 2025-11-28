@@ -1,0 +1,72 @@
+{
+  "logo": "https://picsum.photos/200/60?random=500",
+  "topOffer": "Free Shipping on orders above ₹499",
+  "hero": [
+    {
+      "image": "https://picsum.photos/1200/400?random=101",
+      "title": "Premium Everyday Essentials",
+      "subtitle": "Crafted for your comfort.",
+      "button": "Shop Now"
+    },
+    {
+      "image": "https://picsum.photos/1200/400?random=102",
+      "title": "Luxury • Minimal • JW Quality",
+      "subtitle": "Feel the difference.",
+      "button": "Explore"
+    }
+  ],
+  "categories": [
+    {
+      "title": "Bags",
+      "desc": "Premium leather bags",
+      "image": "https://picsum.photos/400/300?random=201"
+    },
+    {
+      "title": "Wallets",
+      "desc": "Minimalist wallets",
+      "image": "https://picsum.photos/400/300?random=202"
+    },
+    {
+      "title": "Watches",
+      "desc": "Luxury timepieces",
+      "image": "https://picsum.photos/400/300?random=203"
+    },
+    {
+      "title": "Phone Cases",
+      "desc": "Stylish & durable",
+      "image": "https://picsum.photos/400/300?random=204"
+    },
+    {
+      "title": "Accessories",
+      "desc": "Essentials you need",
+      "image": "https://picsum.photos/400/300?random=205"
+    },
+    {
+      "title": "Lifestyle",
+      "desc": "Modern & premium",
+      "image": "https://picsum.photos/400/300?random=206"
+    }
+  ],
+  "newArrivals": [
+    { "id": 1, "title": "Brown Leather Bag", "price": 1299, "image": "https://picsum.photos/300/300?random=301" },
+    { "id": 2, "title": "Minimal Wallet", "price": 499, "image": "https://picsum.photos/300/300?random=302" },
+    { "id": 3, "title": "JW Watch", "price": 1999, "image": "https://picsum.photos/300/300?random=303" },
+    { "id": 4, "title": "iPhone Case", "price": 599, "image": "https://picsum.photos/300/300?random=304" },
+    { "id": 5, "title": "Canvas Tote", "price": 899, "image": "https://picsum.photos/300/300?random=305" },
+    { "id": 6, "title": "Smart Keychain", "price": 299, "image": "https://picsum.photos/300/300?random=306" },
+    { "id": 7, "title": "Black Wallet", "price": 449, "image": "https://picsum.photos/300/300?random=307" },
+    { "id": 8, "title": "Classic Watch", "price": 1499, "image": "https://picsum.photos/300/300?random=308" }
+  ],
+  "featured": {
+    "title": "Featured: Signature Leather Bag",
+    "image": "https://picsum.photos/300/300?random=309",
+    "price": 1299,
+    "description": "A premium handcrafted bag."
+  },
+  "trust": [
+    { "icon": "🚚", "text": "Free Shipping" },
+    { "icon": "🔐", "text": "Secure Payments" },
+    { "icon": "🛡️", "text": "Warranty Assurance" },
+    { "icon": "📞", "text": "24/7 Support" }
+  ]
+}
